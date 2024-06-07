@@ -1,0 +1,68 @@
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\userManagement.exe.config
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\userManagement.exe
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\userManagement.pdb
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Buffers.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Memory.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Net.Http.Json.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Text.Json.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Buffers.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Memory.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Net.Http.Json.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Text.Json.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yunni\Desktop\tfg\userManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.csproj.AssemblyReference.cache
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.FormInicio.resources
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.Properties.Resources.resources
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.csproj.GenerateResource.cache
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.csproj.CoreCompileInputs.cache
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.csproj.CopyComplete
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.exe
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.pdb
+C:\Users\yunni\Desktop\tfg\userManagement\obj\Debug\userManagement.Admin.resources
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\userManagement.exe.config
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\userManagement.exe
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\userManagement.pdb
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Buffers.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Memory.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Net.Http.Json.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Text.Json.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.ValueTuple.dll
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Buffers.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Memory.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Net.Http.Json.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Text.Json.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\bin\Debug\System.ValueTuple.xml
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.csproj.AssemblyReference.cache
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.Admin.resources
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.FormInicio.resources
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.Properties.Resources.resources
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.csproj.GenerateResource.cache
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.csproj.CoreCompileInputs.cache
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.csproj.CopyComplete
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.exe
+C:\Users\yunni\Desktop\tfg finalizado\userManagement\obj\Debug\userManagement.pdb
